@@ -3,7 +3,7 @@ Here is my version of challenge "Build a Tribute Page" from freeCodeCamp | Respo
 
 <h1>Previsualization:</h1>
 You can se the page witouth donwload it with this link: http://htmlpreview.github.io/?https://github.com/hakiour/freeCodeCamp-build-a-Tribute-Page/blob/master/index.html
-<center><img src="http://i.imgur.com/f6mWEbD.png"></center>
+<div style="text-align:center"><img src="http://i.imgur.com/f6mWEbD.png"></div>
 
 <h1>Responsive</h1> The page is responsive, that's means you can see this webpage on all devices with good quality.
-<center><img src="http://i.imgur.com/SWonf9y.png"></center>
+<div style="text-align:center"><center><img src="http://i.imgur.com/SWonf9y.png"></center></div>
